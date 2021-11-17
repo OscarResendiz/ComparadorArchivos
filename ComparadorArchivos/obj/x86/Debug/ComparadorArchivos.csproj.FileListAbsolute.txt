@@ -1,0 +1,10 @@
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\bin\Debug\ComparadorArchivos.exe
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\bin\Debug\ComparadorArchivos.pdb
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.Form1.resources
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.Properties.Resources.resources
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.exe
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.pdb
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.FormDiferencias.resources
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.csproj.AssemblyReference.cache
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.csproj.GenerateResource.cache
+D:\PROYECTOS\Comparador de archivos\ComparadorArchivos\ComparadorArchivos\obj\x86\Debug\ComparadorArchivos.csproj.CoreCompileInputs.cache
